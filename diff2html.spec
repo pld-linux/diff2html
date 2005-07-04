@@ -1,5 +1,5 @@
 Summary:	diff2html - utility generates an HTML page to display the output of the diff
-Summary(pl):	diff2html - narzêdzie generuj±ce stronê HTML wy¶wietlaj±ce wyj¶cie narzêdzia diff
+Summary(pl):	diff2html - narzêdzie generuj±ce stronê HTML wy¶wietlaj±c± wyj¶cie narzêdzia diff
 Name:		diff2html
 Version:	1.0.1
 Release:	0.1
@@ -17,6 +17,11 @@ The diff2html utility generates an HTML page to display the output of
 the diff(1) well-known utility. Using Cascading Style Sheets, the user
 can fully personnalize the appearance of the web page (you might find
 the default styles are too much colorfull).
+
+%description -l pl
+narzêdzie diff2html generuje stronê HTML wy¶wietlaj±c± wyj¶cie innego
+dobrze znanego narzêdzia diff. U¿ywaj±c kaskadowych stylów (CSS) mo¿na
+w pe³ni spersonalizwoaæ wygl±d strony.
 
 %prep
 %setup -q -c -T
