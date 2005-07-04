@@ -13,7 +13,10 @@ Buildarch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-The diff2html utility generates an HTML page to display the output of the diff(1) well-known utility. Using Cascading Style Sheets, the user can fully personnalize the appearance of the web page (you might find the default styles are too much colorfull).
+The diff2html utility generates an HTML page to display the output of
+the diff(1) well-known utility. Using Cascading Style Sheets, the user
+can fully personnalize the appearance of the web page (you might find
+the default styles are too much colorfull).
 
 %prep
 %setup -q -c -T
