@@ -1,4 +1,5 @@
-Summary:	...
+Summary:	diff2html - utility generates an HTML page to display the output of the diff
+Summary(pl):	diff2html - narzêdzie generuj±ce stronê HTML wy¶wietlaj±ce wyj¶cie narzêdzia diff
 Name:		diff2html
 Version:	1.0.1
 Release:	0.1
