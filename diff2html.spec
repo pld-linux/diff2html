@@ -1,6 +1,6 @@
 Summary:	diff2html - utility generates an HTML page to display the output of the diff
-Summary(fr.UTF-8):   L'utilitaire diff2html génère une page HTML valide pour afficher le résultat de l'utilitaire bien connu diff
-Summary(pl.UTF-8):   diff2html - narzędzie generujące stronę HTML wyświetlającą wyjście narzędzia diff
+Summary(fr.UTF-8):	L'utilitaire diff2html génère une page HTML valide pour afficher le résultat de l'utilitaire bien connu diff
+Summary(pl.UTF-8):	diff2html - narzędzie generujące stronę HTML wyświetlającą wyjście narzędzia diff
 Name:		diff2html
 Version:	1.0.1
 Release:	0.1
