@@ -1,6 +1,6 @@
 Summary:	diff2html - utility generates an HTML page to display the output of the diff
-Summary(fr):	L'utilitaire diff2html génère une page HTML valide pour afficher le résultat de l'utilitaire bien connu diff
-Summary(pl):	diff2html - narzêdzie generuj±ce stronê HTML wy¶wietlaj±c± wyj¶cie narzêdzia diff
+Summary(fr.UTF-8):   L'utilitaire diff2html gÃ©nÃ¨re une page HTML valide pour afficher le rÃ©sultat de l'utilitaire bien connu diff
+Summary(pl.UTF-8):   diff2html - narzÄ™dzie generujÄ…ce stronÄ™ HTML wyÅ›wietlajÄ…cÄ… wyjÅ›cie narzÄ™dzia diff
 Name:		diff2html
 Version:	1.0.1
 Release:	0.1
@@ -19,18 +19,18 @@ the diff(1) well-known utility. Using Cascading Style Sheets, the user
 can fully personalize the appearance of the web page (you might find
 the default styles are too much colorful).
 
-%description -l fr
-L'utilitaire diff2html génère une page HTML valide pour afficher le
-résultat de l'utilitaire bien connu diff. Par l'utilisation des
-feuilles de styles CSS2, l'utilisateur peut complètement personnaliser
+%description -l fr.UTF-8
+L'utilitaire diff2html gÃ©nÃ¨re une page HTML valide pour afficher le
+rÃ©sultat de l'utilitaire bien connu diff. Par l'utilisation des
+feuilles de styles CSS2, l'utilisateur peut complÃ¨tement personnaliser
 l'apparence de la page web (vous pouvez estimer que les styles par
-défaut sont trop colorés). diff2html est écrit en langage Python et
-est soumis à la license GNU GPL.
+dÃ©faut sont trop colorÃ©s). diff2html est Ã©crit en langage Python et
+est soumis Ã  la license GNU GPL.
 
-%description -l pl
-narzêdzie diff2html generuje stronê HTML wy¶wietlaj±c± wyj¶cie innego
-dobrze znanego narzêdzia diff. U¿ywaj±c kaskadowych stylów (CSS) mo¿na
-w pe³ni spersonalizowaæ wygl±d strony.
+%description -l pl.UTF-8
+narzÄ™dzie diff2html generuje stronÄ™ HTML wyÅ›wietlajÄ…cÄ… wyjÅ›cie innego
+dobrze znanego narzÄ™dzia diff. UÅ¼ywajÄ…c kaskadowych stylÃ³w (CSS) moÅ¼na
+w peÅ‚ni spersonalizowaÄ‡ wyglÄ…d strony.
 
 %prep
 %setup -q -c -T
