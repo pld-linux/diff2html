@@ -10,7 +10,7 @@ Source0:	http://kafka.fr.free.fr/diff2html/diff2html.bz2
 # Source0-md5:	e3aa3bd4fec0a93f5f97efcd210e232b
 URL:		http://kafka.fr.free.fr/diff2html/
 Requires:	python
-Buildarch:	noarch
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
